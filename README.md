@@ -1,10 +1,11 @@
- Rock-Paper-Scissors Game
+Digital Addiction Awareness Campaign
 
-This is a simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
+This is a web-based awareness campaign about digital addiction.  
+The project was created as part of my self-learning in web development.
 
 ## Overview
-The user can play Rock, Paper, or Scissors against the computer.  
-The game logic is implemented using basic JavaScript.
+The website aims to raise awareness about the impact of digital habits and unhealthy online behavior.  
+It provides information in a simple and accessible way using a clean and responsive layout.
 
 ## Technologies Used
 - HTML
@@ -12,10 +13,9 @@ The game logic is implemented using basic JavaScript.
 - JavaScript
 
 ## Features
-- User interaction with buttons
-- Random computer choice
-- Basic game logic
-- Simple and clean UI
+- Informational sections
+- Responsive layout
+- Simple user interaction
 
 ## Purpose
-This project was created to practice JavaScript fundamentals such as conditionals, user interaction, and basic DOM manipulation.
+This project was built to practice basic frontend development skills and to present information in a clear and user-friendly format.
